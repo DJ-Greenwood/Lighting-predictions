@@ -1,0 +1,12 @@
+numpy
+scipy
+tensorflow
+scikit-image
+scikit-learn
+pandas
+matplotlib
+tqdm
+jupyter
+ipython
+CairoSVG
+tqdm
