@@ -18,25 +18,17 @@ This project implements a Convolutional Neural Network (CNN) for classifying sat
 
 ## Project Structure
 ```
-Project_Name/
+project_root/
 ├── data/
 │   ├── raw/
-│   └── processed/
-├── notebooks/
-│   ├── exploration.ipynb
-│   └── model_training.ipynb
-├── src/
-│   ├── data_preprocessing.py
-│   └── model.py
-├── tests/
-│   ├── test_data_preprocessing.py
-│   └── test_model.py
+│   └── cleaned/
+├── Lighting_predictions
 ├── README.md
-├── requirements.txt
-└── setup.py
+└── requirements.txt
 ```
 
 ### Directory Descriptions:
+##  TODO: Update tomorrow with python files structure
 - `data/`: Contains raw and processed datasets
 - `notebooks/`: Jupyter notebooks for data exploration and model training
 - `src/`: Source code for data preprocessing and model definition
